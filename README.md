@@ -1,6 +1,10 @@
 # python-django-cloudinary-upload
 Upload images to Cloudinary with Python and Django
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/zauribrahimkhalilov/python-django-cloudinary-upload/master/Screenshot%20from%202018-09-19%2012-25-07.png" width="800" height="450">
+</p>
+
 # Installation
 
 <pre>
