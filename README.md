@@ -13,7 +13,7 @@ git clone https://github.com/zauribrahimkhalilov/python-django-cloudinary-upload
 pip install cloudinary
 </pre>
 
-#Add your keys to settings.py
+# Add your keys to settings.py
 
 <pre>
 cloudinary.config(
